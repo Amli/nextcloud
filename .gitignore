@@ -1,0 +1,24 @@
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs (IntelliJ, PyCharm, WebStorm, etc.)
+.idea/
+
+# Sublime Text settings
+*.sublime-workspace
+*.sublime-project
+
+# Vim swap files
+*.swp
+*.swo
+
+# Emacs backup files
+*~
+\#*\#
+
+# MacOS Finder settings
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db

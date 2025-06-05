@@ -1,0 +1,14 @@
+{
+  "calendar": {
+    "download": "https://github.com/nextcloud-releases/calendar/releases/download/v5.3.1/calendar-v5.3.1.tar.gz",
+    "version": "5.3.1"
+  },
+  "cookbook": {
+    "download": "https://github.com/christianlupus-nextcloud/cookbook-releases/releases/download/v0.11.3/cookbook-0.11.3.tar.gz",
+    "version": "0.11.3"
+  },
+  "gpxpod": {
+    "download": "https://github.com/julien-nc/gpxpod/releases/download/v7.0.4/gpxpod-7.0.4.tar.gz",
+    "version": "7.0.4"
+  }
+}
